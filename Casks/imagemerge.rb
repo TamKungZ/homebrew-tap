@@ -1,14 +1,14 @@
 cask "imagemerge" do
-  version "2.0.0"
+  version "2.0.2"
 
   on_arm do
-    url "https://github.com/TamKungZ/ImageMergePy/releases/download/v2.0.0/ImageMerge-macos-app-arm64.zip"
-    sha256 "15723292855f73635b549160a7e4756225d850b02835ae19ecb0a96fbe2514f0"
+    url "https://github.com/TamKungZ/ImageMergePy/releases/download/v2.0.2/ImageMerge-macos-app-arm64.zip"
+    sha256 "3eb051f7e002099c3b47132e895116b2f1df22b58213d3a3f638b91e1e8fda9d"
   end
 
   on_intel do
-    url "https://github.com/TamKungZ/ImageMergePy/releases/download/v2.0.0/ImageMerge-macos-app-x64.zip"
-    sha256 "8a8a47cfe0fffc2f3e615cd335cc12b26a63e6a459f71a736e4e757cabea65d2"
+    url "https://github.com/TamKungZ/ImageMergePy/releases/download/v2.0.2/ImageMerge-macos-app-x64.zip"
+    sha256 "d18f8a84d9df33479989aa425567ef44db2e1f67ed8d6f08b01a9a0cf798ab9c"
   end
 
   name "ImageMerge"
